@@ -1,14 +1,14 @@
 body {
 
-		background-color: #222;
-		margin: 0px;
-		padding: 0px;
-		padding-top: 10px;
-		padding-bottom: 10px;
-		font-family: Georgia, Arial;
-		font-size: 12px;
-		color: #aaa;
-	  text-align: center;
+                background-color: #222;
+                margin: 0px;
+                padding: 0px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                font-family: Georgia, Arial;
+                font-size: 12px;
+                color: #aaa;
+          text-align: center;
 
 }
 
@@ -35,12 +35,12 @@ div#cb-logo {
     width: 280px;
     height: 80px;
     text-align: left;
-    background-image: url("../img/logo.jpg");
+    background-image: url("../img/logo_v2.jpg");
 }
 
 div#cb-main {
 
-  	background-color: #333;
+        background-color: #333;
     border: 1px solid #f60;
     border-top: 0px;
     padding: 0px;
@@ -63,40 +63,40 @@ div#cb-content {
 
 div#cb-lang {
 
-		float: right;
-		margin-right: 20px;
+                float: right;
+                margin-right: 20px;
 
 }
 
 div#cb-contacts {
 
-		margin-left: 23px;
+                margin-left: 23px;
 
 }
 
 a {
-		/* color: #99f; */ 
-		color: #f60;  
-		font-family: Georgia, Arial;
-		font-size: 12px;
+                /* color: #99f; */ 
+                color: #f60;  
+                font-family: Georgia, Arial;
+                font-size: 12px;
 }
 
 span.cb-brand {
-		color: #f60;
-		font-family: Georgia, Arial;
-		font-size: 12px;
-		font-weight: bold;
+                color: #f60;
+                font-family: Georgia, Arial;
+                font-size: 12px;
+                font-weight: bold;
 }
 
 h2.cb-brand {
-		color: #f60;
+                color: #f60;
 }
 
 div.cb-hr {
-		
-		border-top: 1px solid #aaa;
-		width: 100%;
-		margin-bottom: 20px;
+                
+                border-top: 1px solid #aaa;
+                width: 100%;
+                margin-bottom: 20px;
 }
 
 div.cb-center {
